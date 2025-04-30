@@ -10,3 +10,5 @@ def filter_data(data, threshhold):
 data = [2,3,4,5,6]
 
 print(filter_data(data,4))
+
+print("Ovde smo napravili izmene!!!")
